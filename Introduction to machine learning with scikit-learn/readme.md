@@ -13,4 +13,5 @@ Introduction to machine learning with scikit-learn
 - 04_model_training.ipynb
 - 05_model_evaluation.ipynb
 - 06_linear_regression.ipynb
+- 07_cross_validation.ipynb
 - 
