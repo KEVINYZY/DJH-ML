@@ -5,6 +5,6 @@
 - 维基百科
 - 吴恩达 机器学习
 - Introduction to machine learning with scikit-learn
-
+- Sklearn_tutorial
 
 
