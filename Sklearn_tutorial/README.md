@@ -17,3 +17,6 @@ This tutorial requires the following packages:
 
 learning record
 - 01-Preliminaries.ipynb
+- 02.1-Machine-Learning-Intro.ipynb
+- 02.2-Basic-Principles.ipynb
+- 
