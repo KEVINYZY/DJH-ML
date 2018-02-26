@@ -1,21 +1,21 @@
-#### Îâ¶÷´ï »úÆ÷Ñ§Ï°
+#### å´æ©è¾¾ æœºå™¨å­¦ä¹ 
 ----
 
-###### ½²Òå
+###### è®²ä¹‰
 
-- [Introduction](½²Òå/1_Lecture1.pdf)
+- [Introduction](è®²ä¹‰/1_Lecture1.pdf)
 > - Welcome
 > - What is machine learning
 > - Supervised learning
 > - Unsupervised learning
 
-- [Linear regression with one variable](½²Òå/2_Lecture2.pdf)
+- [Linear regression with one variable](è®²ä¹‰/2_Lecture2.pdf)
 > - Model
 > - Cost Function
 > - Gradient Descent
 > - Linear Regression Gradient Descent
 
-- [Linear Algebra Review](½²Òå/3_Lecture3.pdf)
+- [Linear Algebra Review](è®²ä¹‰/3_Lecture3.pdf)
 > - Matrices and Vectors
 > - Addition and Scalar Multiplication
 > - Matrix Vector Multiplication
@@ -23,24 +23,24 @@
 > - Matrix Multiplication Properties
 > - Inverse and Transpose
 
-- [Linear Regression with Multiple Variables](½²Òå/4_Lecture4.pdf)
-> - ¶àÌØÕ÷(Multiple Features)
-> - ¶à±äÁ¿ÌÝ¶ÈÏÂ½µ(Gradient Descent for Multiple Variables)
-> - ÌÝ¶ÈÏÂ½µÊµ¼ù1-ÌØÕ÷ÖµËõ·Å(Gradient Descent in Practice I - Feature Scaling)
-> - ÌÝ¶ÈÏÂ½µÊµ¼ù2-Ñ§Ï°ËÙÂÊ(Gradient Descent in Practice II - Learning Rate)
-> - ÌØÕ÷ºÍ¶àÏîÊ½»Ø¹é(Features and Polynomial Regression)
-> - Õý¹æ·½³Ì(Normal Equation)
-> - ²»¿ÉÄæÐÔÕý¹æ·½³Ì(Normal Equation Noninvertibility)
+- [Linear Regression with Multiple Variables](è®²ä¹‰/4_Lecture4.pdf)
+> - å¤šç‰¹å¾(Multiple Features)
+> - å¤šå˜é‡æ¢¯åº¦ä¸‹é™(Gradient Descent for Multiple Variables)
+> - æ¢¯åº¦ä¸‹é™å®žè·µ1-ç‰¹å¾å€¼ç¼©æ”¾(Gradient Descent in Practice I - Feature Scaling)
+> - æ¢¯åº¦ä¸‹é™å®žè·µ2-å­¦ä¹ é€ŸçŽ‡(Gradient Descent in Practice II - Learning Rate)
+> - ç‰¹å¾å’Œå¤šé¡¹å¼å›žå½’(Features and Polynomial Regression)
+> - æ­£è§„æ–¹ç¨‹(Normal Equation)
+> - ä¸å¯é€†æ€§æ­£è§„æ–¹ç¨‹(Normal Equation Noninvertibility)
 
 
-- [Octave/Matlab Tutorial](½²Òå/5_Lecture5.pdf)
+- [Octave/Matlab Tutorial](è®²ä¹‰/5_Lecture5.pdf)
 > - Basic Operations
 > - Moving Data Around
 > - Computing on Data
 > - Plotting Data
 > - Control Statements: for, while, if statement
-> - ÏòÁ¿»¯(Vectorization)
-> - ³£ÓÃº¯ÊýÕûÀí
+> - å‘é‡åŒ–(Vectorization)
+> - å¸¸ç”¨å‡½æ•°æ•´ç†
 
 
 

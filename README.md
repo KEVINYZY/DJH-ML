@@ -5,8 +5,10 @@
 - 吴恩达 机器学习
 - Introduction to machine learning with scikit-learn
 
-## 第二阶段
-- ApacheCN机器学习实战
 
+## 第二阶段
+- 林轩田机器学习
+- 李宏毅机器学习
+- ApacheCN机器学习实战
 - Scikit-learn-tutorial
 - Scikit-learn v0.19
