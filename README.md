@@ -12,13 +12,15 @@
 - ApacheCN机器学习实战
 - Scikit-learn-tutorial
 - Scikit-learn v0.19
-
+- Google-机器学习速成课程
 
 
 ## 单词记录
 ----
 
->spam 垃圾邮件
+>penalize 罚项
+decision boundary 决策边界
+spam 垃圾邮件
 Guidelines 准则，指导方针
 demonstrate 证明演示显示
 algorithm 算法
