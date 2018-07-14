@@ -12,7 +12,7 @@
 - ApacheCN机器学习实战
 - Scikit-learn-tutorial
 - Scikit-learn v0.19
-- Google-机器学习速成课程
+- [Google-机器学习速成课程](https://github.com/jasonhavenD/DJH-DL/blob/master/machine%20learning%20crash%20course.md)
 
 
 ## 单词记录
